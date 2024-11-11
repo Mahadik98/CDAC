@@ -1,0 +1,52 @@
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.deps.json
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.runtimeconfig.json
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.pdb
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.AssemblyInfoInputs.cache
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.AssemblyInfo.cs
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.RazorAssemblyInfo.cache
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.RazorAssemblyInfo.cs
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.DemoApp.props
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoApp.props
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoApp.props
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/scopedcss/bundle/DemoApp.styles.css
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/refint/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.pdb
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.genruntimeconfig.cache
+/Users/sanju_surve/Documents/CDAC/C#/Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/ref/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.deps.json
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.runtimeconfig.json
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/DemoApp.pdb
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.AssemblyInfoInputs.cache
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.AssemblyInfo.cs
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.RazorAssemblyInfo.cache
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.RazorAssemblyInfo.cs
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.DemoApp.props
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoApp.props
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoApp.props
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/scopedcss/bundle/DemoApp.styles.css
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/refint/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.pdb
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/DemoApp.genruntimeconfig.cache
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/obj/Debug/net8.0/ref/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/appsettings.Development.json
+/Users/sanju_surve/Documents/CDAC/C#/C# Practice/MVC/Razor Pages/DemoApp1/bin/Debug/net8.0/appsettings.json

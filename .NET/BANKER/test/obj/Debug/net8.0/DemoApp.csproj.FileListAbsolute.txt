@@ -1,0 +1,14 @@
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/bin/Debug/net8.0/DemoApp
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/bin/Debug/net8.0/DemoApp.deps.json
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/bin/Debug/net8.0/DemoApp.runtimeconfig.json
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/bin/Debug/net8.0/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/bin/Debug/net8.0/DemoApp.pdb
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/DemoApp.AssemblyInfoInputs.cache
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/DemoApp.AssemblyInfo.cs
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/refint/DemoApp.dll
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/DemoApp.pdb
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/DemoApp.genruntimeconfig.cache
+/Users/sanju_surve/Documents/CDAC/C#/BANKER/test/obj/Debug/net8.0/ref/DemoApp.dll

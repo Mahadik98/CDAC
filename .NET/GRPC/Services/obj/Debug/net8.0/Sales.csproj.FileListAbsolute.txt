@@ -1,0 +1,2 @@
+/Users/sanju_surve/Documents/CDAC/C#/Practice/GRPC/obj/Debug/net8.0/Sales.csproj.AssemblyReference.cache
+/Users/sanju_surve/Documents/CDAC/C#/Practice/GRPC/obj/Debug/net8.0/Sales.GeneratedMSBuildEditorConfig.editorconfig
